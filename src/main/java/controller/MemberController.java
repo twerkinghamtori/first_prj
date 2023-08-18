@@ -123,7 +123,7 @@ public class MemberController extends MskimRequestMapping{
 			    String randomkey = authCodeMaker();
 				// 발신자 정보
 				String sender = "zxc2289@naver.com";
-				String password = "slfflflakaqh";
+				String password = "";
 				
 				// 메일 받을 주소
 				String recipient = inputedEmail;
@@ -199,7 +199,7 @@ public class MemberController extends MskimRequestMapping{
 			    String randomkey = authCodeMaker();
 				// 발신자 정보
 				String sender = "zxc2289@naver.com";
-				String password = "slfflflakaqh";
+				String password = "";
 				
 				// 메일 받을 주소
 				String recipient = inputedEmail;
